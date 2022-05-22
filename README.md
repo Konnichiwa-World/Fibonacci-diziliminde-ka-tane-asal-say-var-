@@ -1,0 +1,1 @@
+# Fibonacci-diziliminde-ka-tane-asal-say-var-
